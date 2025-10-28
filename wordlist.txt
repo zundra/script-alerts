@@ -27422,7 +27422,6 @@ boorish
 boorishly
 boors
 boort
-boos
 boose
 boosies
 boost
@@ -27710,7 +27709,6 @@ borwort
 boryl
 borzoi
 borzois
-bos
 bosc
 boscage
 boscages
@@ -56633,6 +56631,7 @@ degrees
 degreewise
 degression
 degressive
+degu
 deguelia
 deguelin
 degum
@@ -93468,11 +93467,13 @@ guck
 gucked
 gucki
 gucks
+gud
 gudame
 guddle
 guddled
 guddler
 guddling
+gude
 gudefather
 gudemother
 gudes
@@ -93488,6 +93489,7 @@ gudgeons
 gudget
 gudok
 gudrun
+gue
 guebre
 guebucu
 guejarite
@@ -143481,7 +143483,6 @@ obrogated
 obrogating
 obrogation
 obrotund
-obs
 obscene
 obscenely
 obscener
@@ -145448,7 +145449,6 @@ oord
 oorial
 oorie
 oory
-oos
 ooscope
 ooscopy
 oose
@@ -145465,7 +145465,6 @@ oosporous
 oostegite
 oostegitic
 oosterbeek
-oot
 ootheca
 oothecae
 oothecal
@@ -145474,7 +145473,6 @@ ootids
 ootocoid
 ootocoidea
 ootocous
-oots
 ootwith
 ootype
 oouassa
@@ -147171,7 +147169,6 @@ otitides
 otitis
 otium
 otkon
-oto
 otocephaly
 otocleisis
 otoconia
@@ -204670,7 +204667,6 @@ stoat
 stoater
 stoating
 stoats
-stob
 stobball
 stobbed
 stobbing
@@ -213257,7 +213253,6 @@ tazia
 tazza
 tazzas
 tazze
-tbs
 tbsp
 tcawi
 tch
@@ -218107,7 +218102,6 @@ toasts
 toasty
 toat
 toatoa
-tob
 toba
 tobacco
 tobaccoes
@@ -219335,7 +219329,6 @@ toryistic
 toryize
 toryship
 toryweed
-tos
 tosaphist
 tosaphoth
 tosca
