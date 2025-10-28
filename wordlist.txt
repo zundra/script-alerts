@@ -7416,6 +7416,7 @@ earlier
 earlobe
 earlobes
 earmarked
+earn
 earned
 earner
 earpiece
@@ -18771,6 +18772,7 @@ randomized
 randomizes
 ranee
 ranees
+rang
 range
 ranged
 ranger
